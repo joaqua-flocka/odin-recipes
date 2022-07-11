@@ -1,0 +1,28 @@
+.page{
+    background-color: lightskyblue;
+}
+
+.title,
+.subtitle {
+    font-weight: bold;
+    text-align: center;
+}
+
+.imgbox {
+    text-align: center;
+}
+
+.img {
+    height: auto;
+    width: 400px;
+}
+
+button {
+    font-size: 20px;
+    background-color: lightcoral;
+}
+
+.link {
+    text-align: center;
+}
+
