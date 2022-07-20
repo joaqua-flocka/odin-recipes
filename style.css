@@ -1,11 +1,15 @@
 .page{
     background-color: lightskyblue;
+    margin: 0 auto;
+    width: 85%;
+    font-family: 'Times New Roman', serif;
 }
 
 .title,
 .subtitle {
     font-weight: bold;
     text-align: center;
+    font-family: 'Times New Roman', serif;
 }
 
 .imgbox {
@@ -20,6 +24,7 @@
 button {
     font-size: 20px;
     background-color: lightcoral;
+    padding: 10px;
 }
 
 .link {
